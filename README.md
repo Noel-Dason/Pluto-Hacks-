@@ -1,4 +1,4 @@
-# Pluto-Hacks-
+# Pluto-Hacks-DailyEarn.
 
 [Link for all pages](https://www.figma.com/file/xP69TTipk2EBZPxsjZaMpT/Pluto-Hacks?node-id=0%3A1)
 
